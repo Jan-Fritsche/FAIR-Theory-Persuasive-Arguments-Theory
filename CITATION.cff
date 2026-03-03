@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: A formal model of the Persuasive Arguments Theory
+message: '  If you refer to this theory, please cite it using the metadata from this file.'
+type: software
+authors:
+  - given-names: 'Jan '
+    family-names: Fritsche
+    email: Jan.Fritsche@campus.lmu.de
+    affiliation: Ludwig-Maximilians-Universität München
+    orcid: 'https://orcid.org/0009-0009-5606-6483'
+repository-code: >-
+  https://github.com/Jan-Fritsche/FAIR-Theory-Persuasive-Arguments-Theory
+abstract: >-
+  A formal model that explains why choice shifts and group
+  polarization occur after group discussions
+keywords:
+  - persuasive arguments theory
+  - formal theory
+  - fairtheory
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-03-03'
