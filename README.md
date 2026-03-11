@@ -1,5 +1,5 @@
 # FAIR-Theory-Persuasive-Arguments-Theory
-This is a FAIR implementation of Burnstein and Vinokur's "Persuasive Arguments Theory" theory, a theory of group polarization through group discussions. [See https://docs.google.com/document/d/1cJ0esF16XaWmoXkkvk9bVZ-QMmwY83QUNtQ3dJ0ecVg/edit?usp=sharing for Construct Source Tables](https://docs.google.com/document/d/1ZWsHYC1vxffO_8S6M7soKv-wu5rG7UvxhIzmVQ_EPBo/edit?usp=sharing)
+This is a FAIR implementation of Burnstein and Vinokur's "Persuasive Arguments Theory" theory, a theory of group polarization through group discussions. See https://docs.google.com/document/d/1ZWsHYC1vxffO_8S6M7soKv-wu5rG7UvxhIzmVQ_EPBo/edit?usp=sharing for construct tabel.
 # Interoperability
 The implementation of the theory can be used for simulating data and for testing the assumptions of the theory.
 # Related Works
