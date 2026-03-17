@@ -8,7 +8,7 @@ If you want to contribute to this project, please get involved. You can do so in
 
 1. **To discuss the current implementation and discuss potential changes**, file a ‘GitHub’ issue (https://github.com/Jan-Fritsche/FAIR-Theory-Persuasive-Arguments-Theory/issues)
 2. **To directly propose changes**, send a pull request containing the proposed changes https://github.com/Jan-Fritsche/FAIR-Theory-Persuasive-Arguments-Theory/pulls
-3. **To create a derivative theory**, please fork the repository [here](https://github.com/cjvanlissa/empirical_cycle/fork). Please cite this repository (see below), and add this repository as a related work (below and by adding the appropriate metadata on Zenodo).
+3. **To create a derivative theory**, please fork the repository. Please cite this repository (see below), and add this repository as a related work (below and by adding the appropriate metadata on Zenodo).
 
 By participating in this project, you agree to abide by the [Contributor
 Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
