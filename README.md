@@ -6,8 +6,8 @@ The implementation of the theory can be used for simulating data and for testing
 
 If you want to contribute to this project, please get involved. You can do so in three ways:
 
-1. **To discuss the current implementation and discuss potential changes**, file a ‘GitHub’ issue [here] (https://github.com/Jan-Fritsche/FAIR-Theory-Persuasive-Arguments-Theory/issues)
-2. **To directly propose changes**, send a pull request containing the proposed changes [here](https://github.com/cjvanlissa/tidySEM/pulls)
+1. **To discuss the current implementation and discuss potential changes**, file a ‘GitHub’ issue (https://github.com/Jan-Fritsche/FAIR-Theory-Persuasive-Arguments-Theory/issues)
+2. **To directly propose changes**, send a pull request containing the proposed changes https://github.com/Jan-Fritsche/FAIR-Theory-Persuasive-Arguments-Theory/pulls
 3. **To create a derivative theory**, please fork the repository [here](https://github.com/cjvanlissa/empirical_cycle/fork). Please cite this repository (see below), and add this repository as a related work (below and by adding the appropriate metadata on Zenodo).
 
 By participating in this project, you agree to abide by the [Contributor
